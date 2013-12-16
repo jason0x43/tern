@@ -8,7 +8,7 @@
   "bin": "./bin/tern",
   "repository": {
     "type": "git",
-    "url": "git://github.com/marijnh/tern.git"
+    "url": "git://github.com/jason0x43/tern.git"
   },
   "scripts": {
     "test": "./bin/test"
